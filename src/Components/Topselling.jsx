@@ -46,9 +46,7 @@ const Topselling = () => {
 
         </div>
         <div className="flex justify-center items-center w-full">
-  <button className="w-full sm:w-auto px-10 py-3 shadow-lg text-black rounded-full mt-[60px] border-3 border-black-600">
-    View All
-  </button>
+
 </div>
       </div>
       <div className="max-w-[1320px] mx-auto border-t border-gray-300 mt-[60px]">
