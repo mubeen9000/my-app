@@ -25,69 +25,71 @@ const Foot = () => {
             </a>
           </div>
         </div>
+        <div className='grid grid-cols-2 gap-[20px] md:grid-cols-4'>
+          <div className='w-1/2 md:w-[250px] text-center ps-4'>
+            <h1 className='text-[20px]'>COMPANY</h1>
+            <ul>
+              <li><a href="">About</a></li>
+              <li><a href="">Features</a></li>
+              <li><a href="">Works</a></li>
+              <li><a href="">Career</a></li>
+            </ul>
+          </div>
 
-        <div className='w-1/2 md:w-[250px] text-center ps-4'>
-          <h1 className='text-[20px]'>COMPANY</h1>
-          <ul>
-            <li><a href="">About</a></li>
-            <li><a href="">Features</a></li>
-            <li><a href="">Works</a></li>
-            <li><a href="">Career</a></li>
-          </ul>
+          <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
+            <h1 className='text-[20px]'>HELP</h1>
+            <ul>
+              <li><a href="">Customer Support</a></li>
+              <li><a href="">DeliverDate</a></li>
+              <li><a href="">Term Conditions</a></li>
+              <li><a href="">Privacy Policy</a></li>
+            </ul>
+          </div>
+
+          <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
+            <h1 className='text-[20px]'>FAQ</h1>
+            <ul>
+              <li><a href="">Account</a></li>
+              <li><a href="">Manage Delilveries</a></li>
+              <li><a href="">Orders</a></li>
+              <li><a href="">Payments</a></li>
+            </ul>
+          </div>
+
+          <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
+            <h1 className='text-[20px]'>RESOURCES</h1>
+            <ul>
+              <li><a href="">Fee e Book</a></li>
+              <li><a href="">Development Tutorial</a></li>
+              <li><a href="">How to a Blog</a></li>
+              <li><a href="">Youtube Playlist</a></li>
+            </ul>
+          </div>
         </div>
+      </div>
+      <div className="max-w-[1320px] mx-auto border-t border-gray-400 mt-6">
+        <div className='flex flex-col md:flex-row justify-between items-center gap-4 mt-4'>
+          <p className="text-center ps-[10px] md:text-left">
+            Shop.co © 2000-2025, All Rights Reserved by Mubeen Ali Phone Number:  +923010951201
+          </p>
 
-        <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
-          <h1 className='text-[20px]'>HELP</h1>
-          <ul>
-            <li><a href="">Customer Support</a></li>
-            <li><a href="">Deliver Date</a></li>
-            <li><a href="">Term & Conditions</a></li>
-            <li><a href="">Privacy Policy</a></li>
-          </ul>
-        </div>
+          <div className="flex gap-4 items-center">
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png"
+              alt="Visa"
+              width={40}
+            />
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png"
+              alt="Mastercard"
+              width={40}
+            />
 
-        <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
-          <h1 className='text-[20px]'>FAQ</h1>
-          <ul>
-            <li><a href="">Account</a></li>
-            <li><a href="">Manage Delilveries</a></li>
-            <li><a href="">Orders</a></li>
-            <li><a href="">Payments</a></li>
-          </ul>
-        </div>
-
-        <div className='w-1/2 md:w-[250px]  md:text left text-center ps-5'>
-          <h1 className='text-[20px]'>RESOURCES</h1>
-          <ul>
-            <li><a href="">Fee e Book</a></li>
-            <li><a href="">Development Tutorial</a></li>
-            <li><a href="">How to a Blog</a></li>
-            <li><a href="">Youtube Playlist</a></li>
-          </ul>
+            <FaPaypal size={25} color="#003087" />
+          </div>
         </div>
       </div>
 
- <div className="max-w-[1320px] mx-auto border-t border-gray-300 mt-6">
-  <div className='flex flex-col md:flex-row justify-between items-center gap-4 mt-4'>
-    <p className="text-center md:text-left">
-      Shop.co © 2000-2025, All Rights Reserved by Mubeen Ali
-    </p>
-    <div className="flex gap-4 items-center">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png"
-        alt="Visa"
-        width={40}
-      />
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png"
-        alt="Mastercard"
-        width={40}
-      />
-      
-      <FaPaypal size={25} color="#003087" />
-    </div>
-  </div>
-</div>
 
     </div>
   )

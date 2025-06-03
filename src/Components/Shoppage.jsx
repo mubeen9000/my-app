@@ -24,11 +24,11 @@ const Shoppage = () => {
       <div className='max-w-[1320px] mx-auto mt-[40px]'>
         <div className='grid grid-cols-1 md:grid-cols-2'>
           <div className='md:w-[480px] md:h-[450px] shadow-lg rounded-[20px] border border-black-300 flex justify-center items-center'>
-            <img className='w-[400px] h-[350px]' src={pro.image} alt={pro.title} />
+            <img className='md:w-[400px] md:h-[350px] w-[230px] h-[250px]' src={pro.image} alt={pro.title} />
           </div>
 
           <div className='text-[15px] ps-4 mt-[10px] md:text-[30px]'>
-            <h1 className='font-bold text-[30px]'>{pro.title} | {pro.category}</h1>
+            <h1 className='font-bold text-[22px] md:text-[30px]'>{pro.title} | {pro.category}</h1>
             <div className="flex space-x-1 mt-1">
               {[...Array(5)].map((_, index) => (
                 <AiFillStar key={index} className="text-yellow-500 text-xl" />

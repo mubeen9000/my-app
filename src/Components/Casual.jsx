@@ -29,10 +29,11 @@ const Casual = () => {
                 {[...Array(5)].map((_, index) => (
                   <AiFillStar key={index} className="text-yellow-500 text-xl" />
                 ))}
-                 <button className='w-full sm:w-auto px-10 py-3 bg-black text-white rounded-full mt-[15px]' onClick={() => addtocart(product)}>
-            Add to cart
-          </button>
+                 
               </div>
+              <button className='w-full px-3 px py-2 text-[12px] md:w-auto px-10 py-3 bg-black text-white rounded-full mt-[15px]' onClick={() => addtocart(product)}>
+            Add cart
+          </button>
             </div>
           ))}
         </div>

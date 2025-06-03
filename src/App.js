@@ -15,7 +15,7 @@ import Shoppage from './Components/Shoppage';
 import Cartproduct from './Components/Cartproduct';
 import Login from './Components/Login';
 import Casual from './Components/Casual';
-import Signup from './Components/SignUp';
+
 const Home = () => (
   <>
   <Navbar/>
@@ -27,7 +27,7 @@ const Home = () => (
     <Footer />
     <Foot/>
 
-    <Signup/>
+   
   </>
 );
 

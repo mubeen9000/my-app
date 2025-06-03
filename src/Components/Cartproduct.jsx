@@ -26,7 +26,7 @@ const Cartproduct = () => {
                 className="min-h-[180px] shadow-lg rounded-[20px] border-2 flex items-center px-4 py-3"
               >
                 <img
-                  className="w-[90px] h-[90px] object-cover rounded-md"
+                  className="md:w-[90px] md:h-[90px] w-[40px] object-cover rounded-md"
                   src={item.image}
                   alt={item.title}
                 />

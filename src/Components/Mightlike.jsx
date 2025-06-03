@@ -13,7 +13,7 @@ const Mightlike = () => {
   return (
     <div>
       <div className="max-w-[1320px] mx-auto">
-        <h1 className="text-5xl font-bold text-center mt-[70px]">YOU MIGHT ALSO LIKES</h1>
+        <h1 className=" text-3xl md:text-5xl font-bold text-center mt-[70px]">YOU MIGHT ALSO LIKES</h1>
 
 
         <div className="flex overflow-x-auto md:flex-wrap md:justify-between gap-4 mt-[70px]">

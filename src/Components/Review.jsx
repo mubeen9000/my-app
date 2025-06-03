@@ -34,7 +34,7 @@ const Review = () => {
   return (
     <div>
       <div className='max-w-[1320px] mx-auto px-4'>
-        <h1 className='font-bold text-[33px] py-5'>OUR HAPPY CUSTOMERS</h1>
+        <h1 className='font-bold text-[25px] md:text-[33px] py-5'>OUR HAPPY CUSTOMERS</h1>
 
         {/* Mobile Slider */}
         <div className='block md:hidden'>
