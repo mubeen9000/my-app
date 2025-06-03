@@ -25,8 +25,8 @@ const reviews = [
 const Happycuto = () => {
   return (
     <div>
-      <div className='max-w-[1320px] mx-auto px-4'>
-        <h1 className='font-bold text-[33px] py-5'>OUR HAPPY CUSTOMERS</h1>
+      <div className='max-w-[1200px] mx-auto px-4'>
+        <h1 className='font-bold text-3xl py-5 md:text-[33px]'>OUR HAPPY CUSTOMERS</h1>
 
         {/* Mobile Slider */}
         <div className='block md:hidden'>
@@ -50,7 +50,7 @@ const Happycuto = () => {
         {/* Desktop Grid */}
         <div className='hidden md:grid grid-cols-4 gap-[20px]'>
           {reviews.map((review, index) => (
-            <div key={index} className='w-[300px] h-[220px] shadow-lg rounded-[20px] border p-4'>
+            <div key={index} className='w-[280px] h-[220px] shadow-lg rounded-[20px] border p-4'>
               <div className='flex space-x-1'>
                 {[...Array(5)].map((_, i) => (
                   <AiFillStar key={i} className='text-yellow-500 text-xl mt-1' />

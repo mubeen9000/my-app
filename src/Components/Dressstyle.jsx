@@ -8,12 +8,12 @@ function Dressstyle() {
     if (loading) return <p>Loading..</p>
     if (error) return <p>Error: {error}</p>
 
-    const imge4 = products.slice(1, 5)
+    const imge4 = products.slice(1,5)
 
     return (
         <div className='mt-[80px]'>
-            <div className='flex flex-col mx-auto w-full max-w-[1320px] border-[1px] border-black-300 shadow-lg rounded-[20px] py-10'>
-                <h1 className='text-5xl text-center font-bold mb-10'>BROWSE BY DRESS STYLE</h1>
+            <div className='flex flex-col mx-auto w-full max-w-[1200px]  py-10'>
+                <h1 className='md:text-5xl text-4xl text-center font-bold mb-10'>BROWSE BY DRESS STYLE</h1>
 
                 <div className='flex flex-col md:flex-row items-center justify-around gap-4 mt-[40px]'>
 <Link to="/category/men's clothing">

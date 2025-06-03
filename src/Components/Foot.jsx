@@ -4,7 +4,7 @@ import { FaPaypal } from 'react-icons/fa';
 const Foot = () => {
   return (
     <div className='shadow-lg'>
-      <div className='max-w-[1320px] mx-auto flex flex-wrap md:flex-nowrap gap-[40px] mt-[50px]'>
+      <div className='max-w-[1200px] mx-auto flex flex-wrap md:flex-nowrap gap-[40px] mt-[50px]'>
         <div className='w-full md:w-[250px]'>
           <h1 className='text-[35px] font-bold  md:text left text-center'>SHOP.CO</h1>
           <p className='text-[14px] text-[#8e8d8d]  md:text left text-center'>

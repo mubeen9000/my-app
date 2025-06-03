@@ -15,12 +15,12 @@ if(error) return <p>Error: {error}</p>
 const firstpro=products.slice(17,18)
   return (
     <div>
-      <div className='mx-auto w-full max-w-[1320px] px-4 flex flex-col md:flex-row items-center md:items-center gap-6 mt-[5px]'>
+      <div className='mx-auto w-full max-w-[1200px] px-4 flex flex-col md:flex-row items-center md:items-center gap-6 mt-[5px]'>
         <div className='w-full md:max-w-[60%] items-center align-center'>
-          <h1 className='text-3xl sm:text-6xl font-bold'>
+          <h1 className='text-4xl sm:text-6xl font-bold'>
             FIND CLOTHES THAT MATCH YOUR STYLES
           </h1>
-          <p className='sm:text-[23px] text-[12px] text-[#8e8d8d] mt-2'>
+          <p className='sm:text-[18px] text-[12px] text-[#8e8d8d] mt-2'>
             Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.
           </p>
 

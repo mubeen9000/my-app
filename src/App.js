@@ -15,6 +15,7 @@ import Shoppage from './Components/Shoppage';
 import Cartproduct from './Components/Cartproduct';
 import Login from './Components/Login';
 import Casual from './Components/Casual';
+import Mightlike from './Components/Mightlike';
 
 const Home = () => (
   <>
@@ -44,6 +45,7 @@ const App = () => {
             <Route path="/cart" element={<Cartproduct />} />
               <Route path="/Login" element={<Login />} />
             <Route path="/category/:name" element={<Casual />} />
+                <Route path="/category/:name" element={<Mightlike />} />
         </Routes>
       </Router>
     </ContextProvider>

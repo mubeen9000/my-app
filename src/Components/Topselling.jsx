@@ -13,8 +13,8 @@ const Topselling = () => {
 
   return (
     <div>
-      <div className="max-w-[1320px] mx-auto">
-        <h1 className="text-5xl font-bold text-center mt-[70px]">NEW ARRIVALS</h1>
+      <div className="max-w-[1200px] mx-auto">
+        <h1 className="md:text-5xl font-bold text-4xl text-center mt-[70px]">NEW ARRIVALS</h1>
 
 
         <div className="flex overflow-x-auto md:flex-wrap md:justify-between gap-4 mt-[70px]">

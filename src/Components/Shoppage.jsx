@@ -21,7 +21,7 @@ const Shoppage = () => {
   return (
     <div>
       <Navbar/>
-      <div className='max-w-[1320px] mx-auto mt-[40px]'>
+      <div className='max-w-[1200px] mx-auto mt-[40px]'>
         <div className='grid grid-cols-1 md:grid-cols-2'>
           <div className='md:w-[480px] md:h-[450px] shadow-lg rounded-[20px] border border-black-300 flex justify-center items-center'>
             <img className='md:w-[400px] md:h-[350px] w-[230px] h-[250px]' src={pro.image} alt={pro.title} />

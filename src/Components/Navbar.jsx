@@ -8,14 +8,16 @@ const Navbar = () => {
   const { search, setSearch, cartitems } = useContext(Contextstore);
 
   return (
-    <nav className="bg-white mx-auto max-w-[1320px]">
+    <nav className="bg-white mx-auto max-w-[1200px]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
 
           {/* Left side: Logo + Home */}
           <div className="flex items-center space-x-6">
-            <a href="#" className="text-2xl font-bold text-black">SHOP.CO</a>
-            <a href="#" className="text-gray-700 hover:text-indigo-600">Home</a>
+            <a href="#" className="text-4xl font-bold text-black">SHOP.CO</a>
+            {/* <a href="#" className="text-gray-700 hover:text-indigo-600">Home</a>
+            <a href="#" className="text-gray-700 hover:text-indigo-600">Contac Us</a>
+            <a href="#" className="text-gray-700 hover:text-indigo-600">About Us</a> */}
           </div>
 
           {/* Center: Search Bar */}

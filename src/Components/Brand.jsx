@@ -9,11 +9,10 @@ const Topselling = () => {
   if (error) return <p>Error: {error}</p>;
 
   const firstfour = products.slice(0, 4);
-
   return (
     <div>
-      <div className="max-w-[1320px] mx-auto">
-        <h1 className="text-5xl font-bold text-center mt-[70px]">TOP SELLINGS</h1>
+      <div className="max-w-[1200px] mx-auto">
+        <h1 className="md:text-5xl text-4xl font-bold text-center mt-[70px]">TOP SELLINGS</h1>
 
    
         <div className="flex overflow-x-auto md:flex-wrap md:justify-between gap-4 mt-[70px]">
