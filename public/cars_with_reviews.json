@@ -1,0 +1,3338 @@
+[
+  {
+    "id": 1,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 4,
+    "doors": 4,
+    "rating": 4.2,
+    "pricePerDay": 9752,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://png.pngtree.com/png-vector/20241113/ourlarge/pngtree-a-white-suv-car-on-transparent-background-png-image_14388474.png",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Crossover",
+    "year": 2019,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "seats": 4,
+    "doors": 4,
+     "rating": 4.5,
+    "pricePerDay": 5962,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://png.pngtree.com/element_our/20190529/ourmid/pngtree-yellow-fashion-car-illustration-side-view-illustration-image_1191557.jpg",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Sedan",
+    "year": 2023,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 7,
+    "doors": 2,
+     "rating": 4.7,
+    "pricePerDay": 9892,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1533416784636-2b0ccfea6b97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "SUV",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 4,
+    "doors": 5,
+     "rating": 4.9,
+    "pricePerDay": 7819,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2FyfGVufDB8fDB8fHww",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Hatchback",
+    "year": 2023,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 3.5,
+    "doors": 3,
+    "pricePerDay": 4635,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 7,
+     "rating": 4.2,
+    "doors": 4,
+    "pricePerDay": 4688,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "doors": 2,
+     "rating": 4.9,
+    "pricePerDay": 6464,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "Hatchback",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+    "doors": 2,
+     "rating": 4.5,
+    "pricePerDay": 7170,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Sedan",
+    "year": 2019,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "doors": 3,
+     "rating": 4.6,
+    "pricePerDay": 7805,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1486496572940-2bb2341fdbdf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Sedan",
+    "year": 2022,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "seats": 7,
+     "rating": 4,
+    "doors": 4,
+    "pricePerDay": 4934,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1541443131876-44b03de101c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "SUV",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 7,
+    "doors": 5,
+     "rating": 3.9,
+    "pricePerDay": 5562,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "SUV",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 7,
+    "doors": 3,
+     "rating": 3,
+    "pricePerDay": 7599,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Sedan",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 7,
+     "rating": 4.4,
+    "doors": 3,
+    "pricePerDay": 4800,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Crossover",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 3.2,
+    "doors": 3,
+    "pricePerDay": 4883,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1531850959096-cfbb6f26c5a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Sedan",
+    "year": 2020,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 6,
+     "rating": 2.2,
+    "doors": 4,
+    "pricePerDay": 4698,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1484136063621-1acbc3b4ec98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Hatchback",
+    "year": 2023,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 5,
+     "rating": 4,
+    "doors": 3,
+    "pricePerDay": 5735,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Hatchback",
+    "year": 2022,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 4,
+    "doors": 5,
+    "pricePerDay": 7363,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1623006772851-a8bf2c47d304?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 3.5,
+    "doors": 3,
+    "pricePerDay": 7199,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1532974297617-c0f05fe48bff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "Hatchback",
+    "year": 2020,
+
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 4,
+    "doors": 5,
+    "pricePerDay": 8687,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682141683929-e5ac8f0d3be1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Crossover",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 7,
+     "rating": 4.2,
+    "doors": 2,
+    "pricePerDay": 6610,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Crossover",
+    "year": 2021,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 4.0,
+    "doors": 5,
+    "pricePerDay": 4394,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "SUV",
+    "year": 2019,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 3.8,
+    "doors": 5,
+    "pricePerDay": 5748,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+     "rating": 3.2,
+    "doors": 5,
+    "pricePerDay": 7698,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1502219422320-9ca47798b75b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Hatchback",
+    "year": 2022,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 7,
+     "rating": 3.7,
+    "doors": 4,
+    "pricePerDay": 4826,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1560009320-c01920eef9f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Hatchback",
+    "year": 2020,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 7,
+     "rating": 4.5,
+    "doors": 5,
+    "pricePerDay": 5395,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Hatchback",
+    "year": 2018,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 4.8,
+    "doors": 5,
+    "pricePerDay": 4873,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1507767439269-2c64f107e609?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Hatchback",
+    "year": 2023,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 2.4,
+    "doors": 3,
+    "pricePerDay": 9717,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1621252792374-2b79e3fcf295?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Sedan",
+    "year": 2019,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 4.2,
+    "doors": 2,
+    "pricePerDay": 9641,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1591920689160-ee83654e464a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "SUV",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 4,
+    "doors": 3,
+    "pricePerDay": 6905,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1555626906-fcf10d6851b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 7,
+     "rating": 5,
+    "doors": 5,
+    "pricePerDay": 6214,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1524102724373-bcf6ed410592?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU5fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Sedan",
+    "year": 2019,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 4,
+    "doors": 5,
+    "pricePerDay": 8209,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1546614042-7df3c24c9e5d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 4.7,
+    "doors": 5,
+    "pricePerDay": 7868,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1560253787-9c3babc1fab2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTgyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "SUV",
+    "year": 2024,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 4.4,
+    "doors": 5,
+    "pricePerDay": 8500,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1520050206274-a1ae44613e6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Hatchback",
+    "year": 2018,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 4.6,
+    "doors": 5,
+    "pricePerDay": 9593,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1582639510494-c80b5de9f148?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 4.7,
+    "doors": 3,
+    "pricePerDay": 4941,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1560009341-b0a4cad519bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Crossover",
+    "year": 2022,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 6,
+     "rating": 4.8,
+    "doors": 3,
+    "pricePerDay": 5790,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1501066927591-314112b5888e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+     "rating": 4.9,
+    "doors": 4,
+    "pricePerDay": 4312,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Sedan",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 5,
+    "doors": 5,
+    "pricePerDay": 4537,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1590316536591-92ba019a7b50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Sedan",
+    "year": 2022,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 6,
+     "rating": 3.2,
+    "doors": 5,
+    "pricePerDay": 6077,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1508974491678-7ec251d629fd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjIwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Crossover",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+     "rating": 3.3,
+    "doors": 4,
+    "pricePerDay": 7096,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1612593968469-d44a2e6ab5d2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjIyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Hatchback",
+    "year": 2022,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 3.4,
+    "doors": 5,
+    "pricePerDay": 4858,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjI4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 6,
+     "rating": 3.5,
+    "doors": 2,
+    "pricePerDay": 9089,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1601827280216-d850636510e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "Crossover",
+    "year": 2021,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 4,
+     "rating": 3.6,
+    "doors": 2,
+    "pricePerDay": 9857,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1674110997072-41f11b7d4ae7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Hatchback",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 6,
+     "rating": 3.7,
+    "doors": 4,
+    "pricePerDay": 4756,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1593142871910-2a967580ecdc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjM5fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Hatchback",
+    "year": 2020,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 7,
+     "rating": 3.8,
+    "doors": 2,
+    "pricePerDay": 5330,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1511407397940-d57f68e81203?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2018,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 3.9,
+    "doors": 5,
+    "pricePerDay": 8833,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1581208509730-ea918b007133?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "SUV",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 7,
+     "rating": 4,
+    "doors": 3,
+    "pricePerDay": 5914,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1517153295259-74eb0b416cee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjU4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Hatchback",
+    "year": 2021,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 4,
+     "rating": 4.1,
+    "doors": 5,
+    "pricePerDay": 4989,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1555472287-ada4cab06bfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjcwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Hatchback",
+    "year": 2023,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.2,
+    "doors": 2,
+    "pricePerDay": 4048,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1620157206955-5d8ebca0df95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjcxfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2022,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.3,
+    "doors": 3,
+    "pricePerDay": 7069,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1531920327645-347e96a7f31e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjc2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 7,
+    "rating": 4.4,
+    "doors": 2,
+    "pricePerDay": 4459,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1458407421816-f2aa0e36768c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 4.5,
+    "doors": 2,
+    "pricePerDay": 8253,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgzfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Sedan",
+    "year": 2021,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.6,
+    "doors": 3,
+    "pricePerDay": 6205,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1591363748916-d7f3f2df01b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjg3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "Hatchback",
+    "year": 2021,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 7,
+    "rating": 4.7,
+    "doors": 5,
+    "pricePerDay": 6695,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1625231334168-35067f8853ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "SUV",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.8,
+    "doors": 4,
+    "pricePerDay": 6169,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1629450646255-1460f9ef8fa8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjkyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 4.9,
+    "doors": 3,
+    "pricePerDay": 9771,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1528659997310-540c4945fa73?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Hatchback",
+    "year": 2022,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 5,
+    "doors": 3,
+    "pricePerDay": 9731,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1467574547262-4419b3160410?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjk5fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "SUV",
+    "year": 2022,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 6,
+    "rating": 4.1,
+    "doors": 4,
+    "pricePerDay": 6830,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1532245128003-3db26c775465?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "SUV",
+    "year": 2021,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 4.2,
+    "doors": 2,
+    "pricePerDay": 9038,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "Sedan",
+    "year": 2018,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 4.3,
+    "doors": 2,
+    "pricePerDay": 4350,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzEwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "SUV",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.4,
+    "doors": 4,
+    "pricePerDay": 6845,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1588623259724-71e3e35834c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzE2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 4.5,
+    "doors": 4,
+    "pricePerDay": 8076,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1528501028382-e587fcf3a03e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzIyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.6,
+    "doors": 5,
+    "pricePerDay": 8741,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1612911912327-57b3aff278c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzM1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "SUV",
+    "year": 2023,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 7,
+    "rating": 4.7,
+    "doors": 3,
+    "pricePerDay": 6321,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1598248770508-3f58e0ff8ff3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzQ2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Crossover",
+    "year": 2019,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 4.8,
+    "doors": 4,
+    "pricePerDay": 4607,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1506015391300-4802dc74de2e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzUxfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.9,
+    "doors": 4,
+    "pricePerDay": 8735,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1617624085810-3df2165bd11b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Sedan",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 5,
+    "doors": 2,
+    "pricePerDay": 5202,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1517491093410-ab48c47bc750?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "Hatchback",
+    "year": 2019,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 3.1,
+    "doors": 3,
+    "pricePerDay": 4337,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU5fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Hatchback",
+    "year": 2018,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 3.2,
+    "doors": 4,
+    "pricePerDay": 8867,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1578656415093-e7e19e5e132b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzU2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 3.1,
+    "doors": 4,
+    "pricePerDay": 9693,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1594611342073-4bb7683c27ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzYyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "SUV",
+    "year": 2021,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 3.2,
+    "doors": 2,
+    "pricePerDay": 6436,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1588086272079-8b1556abdb53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzY3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "Sedan",
+    "year": 2021,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 3.3,
+    "doors": 2,
+    "pricePerDay": 5027,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1616422285623-13ff0162193c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzcwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "SUV",
+    "year": 2022,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+    "rating": 3.14,
+    "doors": 2,
+    "pricePerDay": 4923,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1570761511122-dd6342842496?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzcxfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Hatchback",
+    "year": 2023,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 3.5,
+    "doors": 4,
+    "pricePerDay": 5837,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzgyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+    "rating": 3.6,
+    "doors": 5,
+    "pricePerDay": 4650,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1732098508796-3a92d57e0b60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzg4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "Sedan",
+    "year": 2021,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+    "rating": 3.7,
+    "doors": 5,
+    "pricePerDay": 6071,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1534571308266-5d4eaaf708db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzk1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "Sedan",
+    "year": 2024,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 3.8,
+    "doors": 3,
+    "pricePerDay": 6327,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1623237209189-38436043387d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzk3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Sedan",
+    "year": 2022,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 3.9,
+    "doors": 4,
+    "pricePerDay": 6166,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1563721938524-4da1bede2935?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDAyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 3.18,
+    "doors": 2,
+    "pricePerDay": 5816,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1516298252535-cf2ac5147f9b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDA1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Sedan",
+    "year": 2024,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 3.7,
+    "doors": 3,
+    "pricePerDay": 7934,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1618395855034-200e7057954d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDA0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "type": "Hatchback",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 6,
+    "rating": 3.6,
+    "doors": 3,
+    "pricePerDay": 4888,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1595783765484-4707bba469bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDA4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 3.5,
+    "doors": 5,
+    "pricePerDay": 7996,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1613945338022-97a2b90ba31e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDEwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 3.4,
+    "doors": 2,
+    "pricePerDay": 9228,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1551830820-330a71b99659?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDE0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2024,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 3.3,
+    "doors": 2,
+    "pricePerDay": 4370,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDEyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Hatchback",
+    "year": 2020,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 6,
+    "rating": 3.2,
+    "doors": 3,
+    "pricePerDay": 7655,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1523983519351-ab98a0abe560?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDI1fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "SUV",
+    "year": 2020,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+    "rating": 3.1,
+    "doors": 2,
+    "pricePerDay": 8501,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1618863099278-75222d755814?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDMzfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Hatchback",
+    "year": 2021,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 4.1,
+    "doors": 3,
+    "pricePerDay": 8745,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1507722661946-ec4abdfe6a1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDQzfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "type": "Sedan",
+    "year": 2022,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 4.0,
+    "doors": 3,
+    "pricePerDay": 6502,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDQ0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "type": "Hatchback",
+    "year": 2019,
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "seats": 6,
+    "rating": 4.1,
+    "doors": 3,
+    "pricePerDay": 7841,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1600955444747-addeb455bb04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDU4fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "SUV",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 5,
+    "rating": 4.2,
+    "doors": 4,
+    "pricePerDay": 8627,
+    "description": "Reliable and budget-friendly car. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1615238359019-c8de4242e083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDY2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Crossover",
+    "year": 2023,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.3,
+    "doors": 4,
+    "pricePerDay": 7539,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDc0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Sedan",
+    "year": 2021,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 4.4,
+    "doors": 2,
+    "pricePerDay": 6162,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDgyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "brand": "Mazda",
+    "model": "3",
+    "type": "Sedan",
+    "year": 2019,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "seats": 6,
+    "rating": 4.5,
+    "doors": 5,
+    "pricePerDay": 8276,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1570432215913-b66fff4a50a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDg3fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "type": "SUV",
+    "year": 2021,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 4.6,
+    "doors": 5,
+    "pricePerDay": 6759,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1572746189491-4917ac7b824d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDk2fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "SUV",
+    "year": 2023,
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "seats": 4,
+    "rating": 4.7,
+    "doors": 3,
+    "pricePerDay": 7107,
+    "description": "Great for city and highway travel. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1557323137-bd6bd20fe022?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTA0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "brand": "Kia",
+    "model": "Sportage",
+    "type": "Sedan",
+    "year": 2020,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 5,
+    "rating": 4.8,
+    "doors": 3,
+    "pricePerDay": 4611,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1621695644555-5fe0f2f87939?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTI0fHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude90",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "brand": "Honda",
+    "model": "Civic",
+    "type": "Sedan",
+    "year": 2019,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 4,
+    "rating": 4.9,
+    "doors": 3,
+    "pricePerDay": 4906,
+    "description": "Advanced features and sleek design. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://www.hdwallpapers.in/download/chevrolet_camaro_coupe_muscle_car_red_car_hd_cars-HD.jpg",
+    "icon": "\ud83d\ude98",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Umer",
+        "rating": 5,
+        "comment": "Perfect for long road trips."
+      },
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "brand": "BMW",
+    "model": "320i",
+    "type": "Crossover",
+    "year": 2020,
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 5,
+    "doors": 3,
+    "pricePerDay": 8293,
+    "description": "Spacious interior with smooth drive. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1577615792595-d38014354328?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTcyfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      },
+      {
+        "user": "Ahmed",
+        "rating": 3,
+        "comment": "Decent experience, but a bit overpriced."
+      },
+      {
+        "user": "Ali",
+        "rating": 5,
+        "comment": "Excellent condition and smooth drive!"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "brand": "Ford",
+    "model": "Focus",
+    "type": "Sedan",
+    "year": 2020,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "seats": 7,
+    "rating": 4.1,
+    "doors": 4,
+    "pricePerDay": 7356,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1587580945215-5d4aabb2c8ef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTkwfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude97",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "brand": "Suzuki",
+    "model": "Swift",
+    "type": "SUV",
+    "year": 2018,
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "seats": 7,
+    "rating": 5.0,
+    "doors": 5,
+    "pricePerDay": 9080,
+    "description": "Comfortable and fuel-efficient ride. This vehicle offers a reliable experience with modern safety features, ample luggage space, and exceptional fuel economy. Ideal for city commutes and family trips.",
+    "imageUrl": "https://images.unsplash.com/photo-1614218018881-61a0a8019771?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjExfHxjYXJ8ZW58MHx8MHx8fDA%3D",
+    "icon": "\ud83d\ude99",
+    "available": true,
+    "reviews": [
+      {
+        "user": "Fatima",
+        "rating": 4,
+        "comment": "Clean and well-maintained."
+      },
+      {
+        "user": "Zara",
+        "rating": 4,
+        "comment": "Comfortable ride but mileage could be better."
+      }
+    ]
+  }
+]

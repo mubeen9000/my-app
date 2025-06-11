@@ -1,55 +1,34 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import ScrollToTop from "./ScrollToTop";
-import { Contextstore } from './Components/Contextapi';
-import ContextProvider from './Components/Contextapi';
-import Navbar from './Components/Navbar';
-import Hero from './Components/Hero';
-import Topselling from './Components/Topselling';
-import Brand from './Components/Brand';
-import Dressstyle from './Components/Dressstyle';
-import Happycuto from './Components/Happycuto';
+import React from 'react'
+import app from './App.css'
+import HeroSection from './Components/HeroSection'
+import Picup from './Components/Picup';
+import Menu from './Components/Menu';
+import Recomendation from './Components/Recomendation';
 import Footer from './Components/Footer';
-import Foot from './Components/Foot';
-import Shoppage from './Components/Shoppage';
-import Cartproduct from './Components/Cartproduct';
-import Login from './Components/Login';
-import Casual from './Components/Casual';
-import Mightlike from './Components/Mightlike';
-
-const Home = () => (
-  <>
-  <Navbar/>
-    <Hero />
-    <Topselling />
-    <Brand />
-    <Dressstyle />
-    <Happycuto />
-    <Footer />
-    <Foot/>
-
-   
-  </>
-);
-
+import Payment from './Components/Payment';
+import ViewAll from './Components/ViewAll';
+import CarDetails from './Components/CarDetails';
 const App = () => {
   return (
-    <ContextProvider>
-      
-      <Router>
-         <ScrollToTop />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/shop" element={<Shoppage />} />
-          <Route path="/shoppage/:id" element={<Shoppage />} />
-            <Route path="/cart" element={<Cartproduct />} />
-              <Route path="/Login" element={<Login />} />
-            <Route path="/category/:name" element={<Casual />} />
-                <Route path="/category/:name" element={<Mightlike />} />
-        </Routes>
-      </Router>
-    </ContextProvider>
-  );
-};
+    <Router>
+      <Routes>
+        <Route path="/" element={
+          <>
+            <HeroSection />
+            <Picup />
+            <Menu />
+            <Recomendation />
+            <Footer />
+          </>
+        } />
+        <Route path="/car-details" element={<CarDetails />} />
+        <Route path="/car-details/:id" element={<CarDetails />} /> 
+         <Route path="/viewall" element={<ViewAll />} /> 
+         <Route path="/payment" element={<Payment />} /> 
+      </Routes>
+    </Router>
+  )
+}
 
-export default App;
+export default App
